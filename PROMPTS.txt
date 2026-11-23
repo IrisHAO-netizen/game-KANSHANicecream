@@ -1,0 +1,16 @@
+Generated using built-in imagegen. Final project assets:
+
+ball-vanilla.png
+A single close-up top-down view of one freshly scooped ball of vanilla ice cream with clearly recognizable curled folds, uneven creamy ridges, delicate frost and pale golden shadows. Warm pastel hand-painted watercolor style of the supplied ice-cream references. Isolated centered object, genuinely transparent background, no cup, spoon, tub, text or other objects.
+
+ball-strawberry.png
+A single close-up top-down game sprite of freshly scooped strawberry ice cream. Soft pastel pink with tiny strawberry flecks, curled folds, irregular creamy ridges and scraped watercolor texture. Isolated centered object with genuinely transparent alpha background, no cup, spoon, tub, text or extra objects.
+
+ball-chocolate.png
+A single close-up top-down game sprite of freshly scooped chocolate ice cream. Rich cocoa brown with a few chocolate flecks, curled folds, irregular creamy ridges and scraped watercolor texture. Isolated centered object with genuinely transparent alpha background, no cup, spoon, tub, text or extra objects.
+
+ball-matcha.png
+One isolated top-down game sprite of a freshly scooped ball of matcha green ice cream. Soft moss green, tiny natural matcha specks, recognizable curled folds, irregular creamy ridges and scraped ice cream texture. Gentle warm pastel hand-painted watercolor. Genuinely transparent alpha background, no cup, spoon, tub, text or other objects.
+
+ball-blueberry.png
+One isolated top-down game sprite of a freshly scooped ball of blueberry ice cream. Soft lavender violet, subtle blueberry flecks, recognizable curled folds, irregular creamy ridges and scraped ice cream texture. Gentle warm pastel hand-painted watercolor. Genuinely transparent alpha background, no cup, spoon, tub, text or other objects.
